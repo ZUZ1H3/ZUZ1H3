@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello+zuzihe&anumatuon-blink&fontSize=80&fontAlignY=64)
 
 ### Hi there 👋
 <!-- 뱃지 -->
