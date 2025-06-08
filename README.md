@@ -1,40 +1,57 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=zuzihe&fontAlignY=40&fontSize=100&desc=(◍ᐡ₃ᐡ◍)&descAlignY=65&animation=twinkling)
-
 <div align="center">
-  <h4>👻 Hello World 👻</h4>
+<br><br><br>
 
-  <br /><br />
-  <h3>Tech Stack</h3>
-  <div class="stack" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin: 5px;"><br> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+world%2C+I'm+ZUZ1H3.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-  </div>
-  <br />
-  <br />
+<br><br>
 
+<!-- Tech Stack -->
+### 🛠️ Tech Stack & Tools
+
+**Backend Development**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+**Cloud & Infrastructure**  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
+
+**Mobile Development**  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
+
+**Tools & Collaboration**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+
+<br><br>
+
+<!-- Pet Farm -->
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ZUZ1H3"
-  width="500"
-  height="200"
-/>
+<img src="https://render.gitanimals.org/farms/ZUZ1H3" width="600" height="200" />
 </a>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUZ1H3&layout=compact" style="margin: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZUZ1H3&show_icons=true" style="margin: 10px; display: inline-block;">
-  </div>
+
+<br><br><br>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZUZ1H3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&include_orgs=true" width=48% />
+</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUZ1H3&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&text_color=fff&title_color=918FE0" width=51% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZUZ1H3&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+
+<br><br><br>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=130)
