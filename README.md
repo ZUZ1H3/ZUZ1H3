@@ -1,52 +1,54 @@
 <div align="center">
-<br><br><br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+world%2C+I'm+ZUZ1H3.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+world%2C+I'm+Jihye+Ju&font=Fira%20Code&center=true&width=520&height=50&pause=1200" />
 
-<br><br>
 
-<!-- Tech Stack -->
-### 🛠️ Tech Stack & Tools
+<div align=left>
 
-**Backend Development**  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+### About Me
 
-**Cloud & Infrastructure**  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
+I focus on building **reliable and efficient backend systems**, and I also support frontend development when needed.
 
-**Mobile Development**  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
+With a user-centered mindset, I aim to solve real problems while continuously improving system architecture for **long-term maintainability and team collaboration**.
 
-**Tools & Collaboration**  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
-<br><br>
+---
 
-<!-- Pet Farm -->
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/farms/ZUZ1H3" width="600" height="200" />
-</a>
+### Timeline
+- **[2022.03 - 2026.02]** B.S. in Computer Engineering, Hansung University
+- **[2025.09 - 2025.12]** Backend Developer Intern (AI Development Team)
+- **[2026.01 - Present]** Backend & Frontend Developer (AI Development Team)
+---
 
-<br><br><br>
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZUZ1H3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&include_orgs=true" width=48% />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUZ1H3&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&text_color=fff&title_color=918FE0" width=51% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZUZ1H3&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
+### Skills
 
-<br><br><br>
+#### Backend (main)
+<img src="https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=007396"/>
+<img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=springboot&logoColor=6DB33F"/>
 
-</div>
+#### Frontend (support)
+<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Tailwind-white?style=flat&logo=tailwindcss&logoColor=06B6D4"/>
+
+#### Database
+<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Elasticsearch-white?style=flat&logo=elasticsearch&logoColor=005571"/>
+<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=DC382D"/>
+
+#### Cloud & Infra
+<img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS-white?style=flat&logo=amazonaws&logoColor=232F3E"/>
+<img src="https://img.shields.io/badge/Nginx-white?style=flat&logo=nginx&logoColor=009639"/>
+
+
+#### Tools
+<img src="https://img.shields.io/badge/GitLab-white?style=flat&logo=gitlab&logoColor=FC6D26"/>
+<img src="https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Figma-white?style=flat&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=0052CC"/>
+
+---
